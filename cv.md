@@ -1,9 +1,11 @@
 #Vlad Zhuro
 ***
+
 ![Аватарка](/IMG_20210616_201524_075_2.jpg)
 
 ##Contacts
 ***
+
 ![Аватарка](/email%20.png) vlad.zhuro.1703@gmail.com
 ![Аватарка](/discord%20.png) Vlad (@Vlad390)
 
